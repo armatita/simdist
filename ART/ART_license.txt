@@ -1,0 +1,29 @@
+This is the art license file designed to give credit to the authors of all art assets used in this
+software. Please fill the fields with accurate information.
+
+There are a few images in the Art directory that were not used in the final App. They were made by
+me. Feel free to use them if you want.
+
+This software was also done within CERENA (research center) - IST/University of Lisbon, as so has
+it's log as its ico.
+
+o) import data:
+Link: http://www.iconarchive.com/show/origami-icons-by-double-j-design/archive-icon.html
+Artist: Double-J Design (Available for custom work)
+Iconset: Origami Icons (15 icons)
+License: CC Attribution 3.0
+Commercial usage: Allowed (Backlink to http://www.doublejdesign.co.uk required)
+
+o)general export:
+Link: http://www.iconarchive.com/show/ravenna-3d-icons-by-double-j-design/Save-icon.html
+Artist: Double-J Design (Available for custom work)
+Iconset: Ravenna 3D Icons (90 icons)
+License: CC Attribution 3.0
+Commercial usage: Allowed (Backlink to http://www.doublejdesign.co.uk required)
+
+o) quit(exit):
+Link: http://www.iconarchive.com/show/crystal-clear-icons-by-everaldo/Action-exit-icon.html
+Artist: Everaldo / Yellowicon
+Iconset: Crystal Clear Icons (509 icons)
+License: GNU Lesser General Public License
+Commercial usage: Allowed
