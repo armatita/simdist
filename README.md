@@ -3,6 +3,9 @@ Small desktop App (made in python, numpy, scipy , pyqt4 and pyqtgraph) made to "
 
 ![alt tag](/ART/simdist.png?raw=true)
 
+<h2>Information for users</h2>
+Check documentation folder to see a pdf file with some guidelines on how to use this software.
+
 <h2>Information for developers</h2>
 simdist.py is both the code for gui file and the main script for this software. There's also cerena_file_utils.py, a small module I've created for GEOMS2 to open several different kinds of file formats.
 
